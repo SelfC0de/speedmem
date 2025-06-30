@@ -101,4 +101,3 @@ FAQ
 Why Vulkan?: Offers lower overhead than OpenGL/DirectX for minimal FPS impact.
 Custom graphics?: Requires Vulkan shaders; contact maintainers for help.
 Safe for games?: Some anti-cheat systems may flag usage; test carefully.
-
